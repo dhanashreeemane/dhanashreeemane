@@ -30,18 +30,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-🔹 Open-Source NGFW with SIEM Integration
-
-🔹 End-to-End DevOps CI/CD Pipeline
-
-🔹 DDoS Detection & Response Framework
-
-🔹 Partially Occluded Face Recognition System
-
----
-
 ### 📫 Connect
 
 📧 [dhanashreemane1572@gmail.com](mailto:dhanashreemane1572@gmail.com)
