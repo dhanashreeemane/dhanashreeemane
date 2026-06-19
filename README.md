@@ -1,120 +1,55 @@
-**## Hi there 👋
+# 👋 Hi, I'm Dhanashree Mane
 
-<!--
-**dhanashreeemane/dhanashreeemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ DevOps Engineer | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**# 👋 Hi, I'm Dhanashree Mane
-
-### ☁️ DevOps Engineer | 🔐 Cybersecurity Enthusiast | 🚀 Cloud Learner
-
-Building secure, scalable, and automated infrastructure solutions.
+🚀 Building secure, scalable, and automated infrastructure solutions.
 
 ---
 
-## 🌟 About Me
+### 👩‍💻 About Me
 
-🎓 C-DAC DITISS Graduate
-
-☁️ Passionate about Cloud Computing, DevOps, and Infrastructure Automation
-
-🔐 Interested in Cybersecurity, SIEM, IDS/IPS, and DevSecOps
-
-🐧 Linux Enthusiast
-
-🚀 Currently exploring Kubernetes, Cloud Security, and Enterprise Infrastructure
+* 🎓 C-DAC DITISS Graduate
+* ☁️ Passionate about Cloud & DevOps
+* 🔐 Interested in Cybersecurity & DevSecOps
+* 🐧 Linux Enthusiast
+* 🚀 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Core Technologies
 
-### Cloud
+☁️ AWS • Docker • Kubernetes • Terraform
 
-AWS
+⚙️ Jenkins • GitHub Actions • CI/CD
 
-### DevOps
+🔐 ELK Stack • SIEM • IDS/IPS • pfSense
 
-Docker • Kubernetes • Terraform • Jenkins • GitHub Actions
+📊 Prometheus • Grafana
 
-### Security
-
-SIEM • IDS/IPS • ELK Stack • pfSense • Suricata
-
-### Monitoring
-
-Prometheus • Grafana
-
-### Programming
-
-Python • Bash • Java
-
-### Operating Systems
-
-Linux • Windows Server
+🐧 Linux • Bash • Python
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🔐 Open-Source Next-Generation Firewall with SIEM Integration
+🔹 Open-Source NGFW with SIEM Integration
 
-* pfSense
-* Suricata IDS/IPS
-* ELK Stack
-* Threat Detection Dashboard
+🔹 End-to-End DevOps CI/CD Pipeline
 
-### ⚙️ End-to-End DevOps CI/CD Pipeline
+🔹 DDoS Detection & Response Framework
 
-* Jenkins
-* SonarQube
-* Trivy
-* Docker
-* Kubernetes
-
-### 🛡️ DDoS Attack Detection and Response
-
-* Network Monitoring
-* Threat Analysis
-* Incident Response
-
-### 👤 Partially Occluded Face Recognition System
-
-* OpenCV
-* MediaPipe
-* Deep Learning
+🔹 Partially Occluded Face Recognition System
 
 ---
 
-## 📜 Certifications
-
-🏆 C-DAC DITISS
-
-🏆 CCNA
-
-🏆 AWS Cloud (if applicable)
-
----
-
-## 📫 Connect With Me
+### 📫 Connect
 
 📧 [dhanashreemane1572@gmail.com](mailto:dhanashreemane1572@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/dhanashreemane
+💼 LinkedIn: /in/dhanashreemane
 
 📍 Pune, Maharashtra, India
 
 ---
 
-### ✨ Motto
-
-Automate Everything • Secure by Design • Scale with Confidence
+> "Automate Everything. Secure by Design."
