@@ -46,7 +46,7 @@
 
 📧 [dhanashreemane1572@gmail.com](mailto:dhanashreemane1572@gmail.com)
 
-💼 LinkedIn: /in/dhanashreemane
+💼 LinkedIn: https://www.linkedin.com/in/dhanashreemane
 
 📍 Pune, Maharashtra, India
 
