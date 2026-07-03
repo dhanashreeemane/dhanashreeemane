@@ -71,4 +71,11 @@
 
 ---
 
+🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+
+---
+
 > "Automate Everything. Secure by Design."
